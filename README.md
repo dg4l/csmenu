@@ -1,8 +1,8 @@
 # csmenu
-comma separated menu
+a dynamic menu script, using a csv-like format:
 
 ## Format
-```csv
+```
 # comment
 label,command
 ```
