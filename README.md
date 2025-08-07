@@ -1,5 +1,5 @@
 # csmenu
-a dynamic menu script, using a csv-like format:
+a dynamic menu script, using a csv-like format.
 
 ## Format
 ```
